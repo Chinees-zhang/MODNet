@@ -127,3 +127,5 @@ This repository is maintained by Zhanghan Ke ([@ZHKKKe](https://github.com/ZHKKK
 For questions, please contact `kezhanghan@outlook.com`.
 
 <img src="doc/gif/commercial_image_matting_model_result.gif" width='100%'>
+# -----------------------------------------------------------------------------------------------------
+https://cloud.tencent.com/developer/article/2007710
